@@ -1,0 +1,65 @@
+.header {
+  background-color: rgb(179, 255, 0);
+  border-bottom: 10px solid darkblue;
+  position: fixed;
+  top: 0px;
+  width: 100%;
+}
+
+.rightnav {
+  position: relative;
+  float: right;
+  margin-right: 15px;
+  display: inline;
+}
+
+
+.contact {
+  background-color: chocolate;
+  text-align: center;
+  padding-bottom: 15px;
+  margin-bottom: 0;
+}
+
+footer {
+    background-color: aquamarine;
+    text-align: center;
+    height: 2em;
+  }
+  
+section {
+  text-align: center;
+}
+
+h1 {
+  position: relative;
+  top: 20px;
+}
+
+body {
+  margin: 0px;
+}
+
+* {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", "Geneva", "Verdana", "sans-serif";
+}
+
+.contact_form {
+  padding: 15px;
+  border: solid;
+  width: 25%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.contact h2 {
+  margin-bottom: 0;
+}
+
+footer p {
+    margin-top: 0px;
+    padding-top: 5px;
+}
